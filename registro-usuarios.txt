@@ -1,0 +1,2 @@
+Implementación de la funcionalidad de registro de usuarios.
+Historia relacionada: PEJ-4
